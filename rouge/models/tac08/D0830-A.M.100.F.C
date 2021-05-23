@@ -1,0 +1,3 @@
+After two false arrests, suspected Wichita, Kansas "BTK serial killer", Dennis Rader, was arrested February 25, 2005.
+He was held for 10 first-degree murders, from 1974 to 1991, but won't get Kansas's death penalty instituted in 1994.
+Local and county police, the Kansas Bureau of Investigation, and the FBI worked 31 years on 5,000 tips and evidence provided by BTK: eight letters to police and media, a victim's necklace BTK gave to his girl friend, a victim's driver's license, BTK's recorded voice and crime scene semen, thousands of DNA swabs, BTK's DNA linking to Rader, and facts matching Rader's biography.

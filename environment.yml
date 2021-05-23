@@ -1,0 +1,26 @@
+name: supmmd
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - conda-forge::jupyterlab
+  - conda-forge::ipywidgets
+  - seaborn
+  - scipy
+  - scikit-learn
+  - conda-forge::spacy=2.1
+  - h5py
+  - pip
+  - pip :
+    - mypy
+    - pygsp
+    - lxml
+    - requests
+    - BeautifulSoup4
+    - tzlocal
+    - profilehooks
+    - xmltodict
+    - pyhocon
+    - regex
+    - rouge-score
+    - neuralcoref

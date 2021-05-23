@@ -1,0 +1,8 @@
+run*/
+rouge_duc*
+*.pik
+test
+rouge_*
+res_*/logs/*
+res_*/runs/*
+res_*/states/*

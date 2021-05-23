@@ -1,0 +1,3 @@
+In October, 2004, the Dover, PA School Board ordered that biology students be told evolution "is a theory, not a fact" and "intelligent design is an explanation of the origin of life that differs" from evolution, and encouraged to read "Of Pandas & People", added to the school library.
+Trial began September, 26, 2005.
+Plaintiffs argued intelligent design is not scientific, but religious; that board members had religious motivation; and that intelligent design and "Pandas" are recast creationism which has been banned from public school science classes by the Supreme Court as a violation of the first amendment's establishment clause.

@@ -1,0 +1,3 @@
+On May 3, 2005 former President Bill Clinton announced a partnership of the American Heart Association with the food and restaurant industry to increase physical activity and nutrition at schools nationwide.
+Other action against childhood obesity followed in August and September as the American Beverage Association agreed to limit distribution of high caloric beverages in schools and Kraft unveiled new whole grain versions of some of the most popular cookies.
+It was announced in Bangkok, Thailand that fresh fruits, fruit juices and fresh milk would replace sweet and fatty foods in 433 schools across the city.

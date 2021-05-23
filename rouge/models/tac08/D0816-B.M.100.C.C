@@ -1,0 +1,3 @@
+The September 19, 2005 six-nations agreement included: N.K. giving up its nuclear weapons program; returning to the NPT and IAEA safeguards; The U.S. declared no nuclear arms on the Korean Peninsula and no intention to attack N.K.
+S.K. reaffirmed it doesn't have and won't deploy nuclear weapons; China, Russia, S.K., the U.S. and Japan agreed give N.K. a light-water reactor; N.K. and the U.S. pledge to respect each other's sovereignty, coexist peacefully, and normalize relations; N.K. and Japan agreed to normalize ties; China, Russia, S.K., Japan and the U.S. gave N.K. energy assistance.
+Australia offered N.K. energy, aid and expertise.

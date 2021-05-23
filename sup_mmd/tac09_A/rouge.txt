@@ -1,0 +1,686 @@
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Average_R: 0.39038 (95%-conf.int. 0.37418 - 0.40639)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Average_P: 0.39012 (95%-conf.int. 0.37354 - 0.40622)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Average_F: 0.39019 (95%-conf.int. 0.37382 - 0.40620)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.44307 P:0.44307 F:0.44307
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.36776 P:0.36869 F:0.36822
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.33249 P:0.33000 F:0.33124
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.35784 P:0.36869 F:0.36318
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.29049 P:0.27696 F:0.28356
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.29397 P:0.29545 F:0.29471
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.40494 P:0.41414 F:0.40949
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.33580 P:0.33663 F:0.33621
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.38346 P:0.38636 F:0.38490
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.45455 P:0.43689 F:0.44555
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.47487 P:0.46324 F:0.46898
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.37157 P:0.36520 F:0.36836
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.46835 P:0.46250 F:0.46541
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.37845 P:0.36650 F:0.37238
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.36341 P:0.37626 F:0.36972
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.34321 P:0.34750 F:0.34534
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.35396 P:0.35049 F:0.35222
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.45564 P:0.47030 F:0.46285
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.38636 P:0.38250 F:0.38442
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.35627 P:0.36990 F:0.36296
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.42015 P:0.41505 F:0.41758
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.35533 P:0.36082 F:0.35805
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.39702 P:0.38835 F:0.39264
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.39364 P:0.39851 F:0.39606
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.44853 P:0.43571 F:0.44203
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.35417 P:0.35052 F:0.35234
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.33333 P:0.33081 F:0.33207
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.44388 P:0.43500 F:0.43940
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.40500 P:0.40909 F:0.40703
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.32170 P:0.32250 F:0.32210
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.30244 P:0.31633 F:0.30923
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.34586 P:0.34158 F:0.34371
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.46292 P:0.44363 F:0.45307
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.31865 P:0.30750 F:0.31298
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.44776 P:0.44118 F:0.44445
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.40887 P:0.39904 F:0.40390
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.49749 P:0.49500 F:0.49624
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.37838 P:0.38500 F:0.38166
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.46867 P:0.46750 F:0.46808
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.37594 P:0.37129 F:0.37360
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.47932 P:0.50255 F:0.49066
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.41220 P:0.43557 F:0.42356
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.37811 P:0.38384 F:0.38095
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-1 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.41235 P:0.41750 F:0.41491
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Average_R: 0.12022 (95%-conf.int. 0.10920 - 0.13082)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Average_P: 0.12027 (95%-conf.int. 0.10903 - 0.13104)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Average_F: 0.12023 (95%-conf.int. 0.10906 - 0.13103)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15250 P:0.15250 F:0.15250
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07634 P:0.07653 F:0.07643
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07634 P:0.07576 F:0.07605
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12129 P:0.12500 F:0.12312
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05195 P:0.04950 F:0.05070
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06345 P:0.06378 F:0.06361
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18204 P:0.18622 F:0.18411
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09227 P:0.09250 F:0.09238
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10380 P:0.10459 F:0.10419
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.16327 P:0.15686 F:0.16000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15482 P:0.15099 F:0.15288
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11083 P:0.10891 F:0.10986
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.17136 P:0.16919 F:0.17027
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07342 P:0.07108 F:0.07223
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07389 P:0.07653 F:0.07519
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10723 P:0.10859 F:0.10791
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08750 P:0.08663 F:0.08706
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14044 P:0.14500 F:0.14268
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11990 P:0.11869 F:0.11929
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13896 P:0.14433 F:0.14159
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09677 P:0.09559 F:0.09618
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09487 P:0.09635 F:0.09560
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09774 P:0.09559 F:0.09665
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10123 P:0.10250 F:0.10186
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13119 P:0.12740 F:0.12927
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13158 P:0.13021 F:0.13089
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09254 P:0.09184 F:0.09219
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13144 P:0.12879 F:0.13010
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14646 P:0.14796 F:0.14721
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06045 P:0.06061 F:0.06053
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06650 P:0.06959 F:0.06801
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09114 P:0.09000 F:0.09057
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14729 P:0.14109 F:0.14412
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10209 P:0.09848 F:0.10025
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.16583 P:0.16337 F:0.16459
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12935 P:0.12621 F:0.12776
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18020 P:0.17929 F:0.17974
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13151 P:0.13384 F:0.13266
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18987 P:0.18939 F:0.18963
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10886 P:0.10750 F:0.10818
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18182 P:0.19072 F:0.18616
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15025 P:0.15885 F:0.15443
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11307 P:0.11480 F:0.11393
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-2 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18454 P:0.18687 F:0.18570
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Average_R: 0.05407 (95%-conf.int. 0.04590 - 0.06307)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Average_P: 0.05414 (95%-conf.int. 0.04609 - 0.06328)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Average_F: 0.05410 (95%-conf.int. 0.04587 - 0.06319)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06566 P:0.06566 F:0.06566
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02571 P:0.02577 F:0.02574
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02057 P:0.02041 F:0.02049
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05250 P:0.05412 F:0.05330
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01050 P:0.01000 F:0.01024
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01795 P:0.01804 F:0.01799
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10831 P:0.11082 F:0.10955
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03778 P:0.03788 F:0.03783
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04092 P:0.04124 F:0.04108
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08247 P:0.07921 F:0.08081
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05897 P:0.05750 F:0.05823
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04835 P:0.04750 F:0.04792
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10336 P:0.10204 F:0.10270
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01279 P:0.01238 F:0.01258
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01493 P:0.01546 F:0.01519
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02267 P:0.02296 F:0.02281
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04293 P:0.04250 F:0.04271
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06846 P:0.07071 F:0.06957
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02577 P:0.02551 F:0.02564
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08020 P:0.08333 F:0.08174
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03008 P:0.02970 F:0.02989
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04663 P:0.04737 F:0.04700
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04051 P:0.03960 F:0.04005
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04489 P:0.04545 F:0.04517
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07250 P:0.07039 F:0.07143
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05585 P:0.05526 F:0.05555
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04675 P:0.04639 F:0.04657
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05990 P:0.05867 F:0.05928
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07398 P:0.07474 F:0.07436
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00254 P:0.00255 F:0.00254
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01493 P:0.01562 F:0.01527
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03581 P:0.03535 F:0.03558
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08877 P:0.08500 F:0.08684
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04233 P:0.04082 F:0.04156
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07614 P:0.07500 F:0.07557
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05779 P:0.05637 F:0.05707
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06667 P:0.06633 F:0.06650
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05514 P:0.05612 F:0.05563
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12532 P:0.12500 F:0.12516
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04348 P:0.04293 F:0.04320
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09181 P:0.09635 F:0.09403
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08209 P:0.08684 F:0.08440
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06345 P:0.06443 F:0.06394
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-3 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11587 P:0.11735 F:0.11661
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Average_R: 0.02944 (95%-conf.int. 0.02335 - 0.03629)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Average_P: 0.02947 (95%-conf.int. 0.02345 - 0.03628)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Average_F: 0.02945 (95%-conf.int. 0.02338 - 0.03632)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03061 P:0.03061 F:0.03061
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01299 P:0.01302 F:0.01300
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00779 P:0.00773 F:0.00776
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02525 P:0.02604 F:0.02564
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00531 P:0.00505 F:0.00518
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00518 P:0.00521 F:0.00519
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06870 P:0.07031 F:0.06950
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02290 P:0.02296 F:0.02293
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01550 P:0.01562 F:0.01556
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04688 P:0.04500 F:0.04592
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01813 P:0.01768 F:0.01790
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02057 P:0.02020 F:0.02038
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06005 P:0.05928 F:0.05966
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00517 P:0.00500 F:0.00508
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00763 P:0.00773 F:0.00768
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02296 P:0.02273 F:0.02284
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03704 P:0.03827 F:0.03764
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05570 P:0.05789 F:0.05677
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00253 P:0.00250 F:0.00251
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02094 P:0.02128 F:0.02111
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01535 P:0.01500 F:0.01517
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02267 P:0.02296 F:0.02281
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05808 P:0.05637 F:0.05721
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03226 P:0.03191 F:0.03208
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03150 P:0.03125 F:0.03137
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04474 P:0.04381 F:0.04427
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04897 P:0.04948 F:0.04922
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.00251 P:0.00263 F:0.00257
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02326 P:0.02296 F:0.02311
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06069 P:0.05808 F:0.05936
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01872 P:0.01804 F:0.01837
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05128 P:0.05051 F:0.05089
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02284 P:0.02228 F:0.02256
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.02850 P:0.02835 F:0.02842
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.03544 P:0.03608 F:0.03576
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09561 P:0.09536 F:0.09548
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.01034 P:0.01020 F:0.01027
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05013 P:0.05263 F:0.05135
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04020 P:0.04255 F:0.04134
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.04103 P:0.04167 F:0.04135
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-4 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06361 P:0.06443 F:0.06402
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Average_R: 0.26269 (95%-conf.int. 0.25176 - 0.27421)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Average_P: 0.26254 (95%-conf.int. 0.25111 - 0.27395)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Average_F: 0.26257 (95%-conf.int. 0.25144 - 0.27389)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.30693 P:0.30693 F:0.30693
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.23426 P:0.23485 F:0.23455
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24433 P:0.24250 F:0.24341
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.26961 P:0.27778 F:0.27363
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.20051 P:0.19118 F:0.19573
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.21859 P:0.21970 F:0.21914
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.32099 P:0.32828 F:0.32459
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.20494 P:0.20545 F:0.20519
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.27569 P:0.27778 F:0.27673
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.27525 P:0.26456 F:0.26980
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.31156 P:0.30392 F:0.30769
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24439 P:0.24020 F:0.24228
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.30886 P:0.30500 F:0.30692
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.23058 P:0.22330 F:0.22688
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.22439 P:0.23232 F:0.22829
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.23704 P:0.24000 F:0.23851
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.21782 P:0.21569 F:0.21675
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.29976 P:0.30941 F:0.30451
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.26768 P:0.26500 F:0.26633
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.26781 P:0.27806 F:0.27284
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.27273 P:0.26942 F:0.27106
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.23604 P:0.23969 F:0.23785
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.27295 P:0.26699 F:0.26994
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24939 P:0.25248 F:0.25093
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.29902 P:0.29048 F:0.29469
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24219 P:0.23969 F:0.24093
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.25700 P:0.25505 F:0.25602
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.25765 P:0.25250 F:0.25505
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.29500 P:0.29798 F:0.29648
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18703 P:0.18750 F:0.18726
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18537 P:0.19388 F:0.18953
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.23810 P:0.23515 F:0.23662
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.31969 P:0.30637 F:0.31289
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24352 P:0.23500 F:0.23918
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.31841 P:0.31373 F:0.31605
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.25123 P:0.24519 F:0.24817
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.32915 P:0.32750 F:0.32832
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.22359 P:0.22750 F:0.22553
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.33333 P:0.33250 F:0.33291
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.24311 P:0.24010 F:0.24160
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.31387 P:0.32908 F:0.32130
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.25854 P:0.27320 F:0.26567
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.27861 P:0.28283 F:0.28070
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-L Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.28889 P:0.29250 F:0.29068
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Average_R: 0.07234 (95%-conf.int. 0.06919 - 0.07557)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Average_P: 0.18174 (95%-conf.int. 0.17363 - 0.18961)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Average_F: 0.10347 (95%-conf.int. 0.09890 - 0.10807)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08219 P:0.20689 F:0.11764
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06315 P:0.15879 F:0.09036
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06399 P:0.15939 F:0.09132
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07411 P:0.19262 F:0.10704
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05486 P:0.13073 F:0.07729
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05866 P:0.14795 F:0.08401
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09229 P:0.23771 F:0.13296
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05787 P:0.14611 F:0.08290
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07100 P:0.17963 F:0.10177
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08013 P:0.19309 F:0.11326
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08174 P:0.20016 F:0.11608
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06778 P:0.16745 F:0.09650
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08623 P:0.21336 F:0.12282
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06420 P:0.15612 F:0.09098
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05686 P:0.14866 F:0.08226
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06404 P:0.16329 F:0.09200
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05865 P:0.14618 F:0.08371
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08128 P:0.21253 F:0.11759
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07218 P:0.17914 F:0.10290
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07692 P:0.20130 F:0.11131
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07065 P:0.17597 F:0.10082
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06450 P:0.16402 F:0.09259
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07177 P:0.17662 F:0.10207
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06950 P:0.17753 F:0.09989
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08576 P:0.21013 F:0.12181
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06635 P:0.16392 F:0.09446
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07126 P:0.17711 F:0.10163
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07787 P:0.19100 F:0.11063
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08317 P:0.21103 F:0.11932
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05054 P:0.12733 F:0.07236
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.05146 P:0.13586 F:0.07465
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06614 P:0.16401 F:0.09427
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08530 P:0.20459 F:0.12040
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06811 P:0.16402 F:0.09625
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08474 P:0.20997 F:0.12075
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07233 P:0.17786 F:0.10284
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08937 P:0.22316 F:0.12763
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06177 P:0.15843 F:0.08888
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09692 P:0.24272 F:0.13853
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.06925 P:0.17171 F:0.09870
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08613 P:0.22815 F:0.12505
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07116 P:0.18982 F:0.10351
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.07829 P:0.19985 F:0.11251
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-W-1.2 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08107 P:0.20670 F:0.11646
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Average_R: 0.15021 (95%-conf.int. 0.13967 - 0.16093)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Average_P: 0.15017 (95%-conf.int. 0.13920 - 0.16085)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Average_F: 0.15017 (95%-conf.int. 0.13943 - 0.16090)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18517 P:0.18517 F:0.18517
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10742 P:0.10770 F:0.10756
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11173 P:0.11087 F:0.11130
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14136 P:0.14576 F:0.14353
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08855 P:0.08431 F:0.08638
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09165 P:0.09213 F:0.09189
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18639 P:0.19074 F:0.18854
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12553 P:0.12585 F:0.12569
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14034 P:0.14144 F:0.14089
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.19291 P:0.18522 F:0.18899
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.19793 P:0.19295 F:0.19541
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13365 P:0.13129 F:0.13246
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.21422 P:0.21147 F:0.21284
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12403 P:0.12002 F:0.12199
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11269 P:0.11678 F:0.11470
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.10566 P:0.10702 F:0.10634
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13051 P:0.12919 F:0.12985
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18458 P:0.19068 F:0.18758
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13192 P:0.13057 F:0.13124
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14886 P:0.15472 F:0.15173
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14003 P:0.13829 F:0.13915
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13000 P:0.13207 F:0.13103
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12787 P:0.12500 F:0.12642
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14393 P:0.14576 F:0.14484
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.17240 P:0.16735 F:0.16984
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.14018 P:0.13869 F:0.13943
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.12554 P:0.12457 F:0.12505
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.17089 P:0.16738 F:0.16912
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.17551 P:0.17734 F:0.17642
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.08924 P:0.08947 F:0.08935
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.09641 P:0.10096 F:0.09863
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13305 P:0.13136 F:0.13220
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.20333 P:0.19463 F:0.19888
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.11323 P:0.10916 F:0.11116
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.19676 P:0.19379 F:0.19526
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15641 P:0.15255 F:0.15446
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.20224 P:0.20120 F:0.20172
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15517 P:0.15796 F:0.15655
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.22532 P:0.22474 F:0.22503
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.13090 P:0.12924 F:0.13006
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.21690 P:0.22771 F:0.22217
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.17404 P:0.18419 F:0.17897
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.15034 P:0.15268 F:0.15150
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c ROUGE-SU4 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_c R:0.18512 P:0.18750 F:0.18630
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Average_R: 0.39600 (95%-conf.int. 0.37978 - 0.41177)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Average_P: 0.38670 (95%-conf.int. 0.37026 - 0.40285)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Average_F: 0.39122 (95%-conf.int. 0.37479 - 0.40741)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.44307 P:0.43447 F:0.43873
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37028 P:0.35680 F:0.36342
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.33249 P:0.30000 F:0.31541
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.40196 P:0.39806 F:0.40000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28021 P:0.26202 F:0.27081
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.32915 P:0.31796 F:0.32346
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.38025 P:0.38500 F:0.38261
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.34568 P:0.33981 F:0.34272
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37845 P:0.37010 F:0.37423
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.45707 P:0.44802 F:0.45250
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.48492 P:0.47304 F:0.47891
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37905 P:0.37255 F:0.37577
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.49114 P:0.48500 F:0.48805
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37594 P:0.36408 F:0.36991
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.36829 P:0.36298 F:0.36562
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.33827 P:0.34250 F:0.34037
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.35396 P:0.35396 F:0.35396
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.46283 P:0.46845 F:0.46562
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.38889 P:0.38500 F:0.38694
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.39558 P:0.39078 F:0.39317
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.42015 P:0.41505 F:0.41758
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.35279 P:0.33095 F:0.34152
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.38958 P:0.38107 F:0.38528
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.42787 P:0.42892 F:0.42839
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.44118 P:0.42453 F:0.43269
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.35938 P:0.33173 F:0.34500
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.31807 P:0.31250 F:0.31526
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.43112 P:0.42250 F:0.42677
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.41000 P:0.39806 F:0.40394
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.34414 P:0.34500 F:0.34457
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.31463 P:0.31010 F:0.31235
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.35338 P:0.34901 F:0.35118
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.43990 P:0.42157 F:0.43054
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.33938 P:0.32426 F:0.33165
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.46766 P:0.45631 F:0.46192
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.40394 P:0.38679 F:0.39518
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.51005 P:0.49755 F:0.50372
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37592 P:0.38250 F:0.37918
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.45865 P:0.45297 F:0.45579
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.37093 P:0.36634 F:0.36862
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.50852 P:0.45043 F:0.47772
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.42683 P:0.41667 F:0.42169
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.39303 P:0.38350 F:0.38821
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-1 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.41235 P:0.41750 F:0.41491
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Average_R: 0.12332 (95%-conf.int. 0.11196 - 0.13476)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Average_P: 0.12043 (95%-conf.int. 0.10914 - 0.13149)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Average_F: 0.12183 (95%-conf.int. 0.11050 - 0.13313)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15000 P:0.14706 F:0.14852
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08142 P:0.07843 F:0.07990
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08142 P:0.07339 F:0.07720
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.16832 P:0.16667 F:0.16749
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05714 P:0.05340 F:0.05521
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06599 P:0.06373 F:0.06484
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13716 P:0.13889 F:0.13802
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09476 P:0.09314 F:0.09394
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10633 P:0.10396 F:0.10513
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.16071 P:0.15750 F:0.15909
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17005 P:0.16584 F:0.16792
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11083 P:0.10891 F:0.10986
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.18926 P:0.18687 F:0.18806
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07342 P:0.07108 F:0.07223
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07635 P:0.07524 F:0.07579
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09975 P:0.10101 F:0.10038
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08750 P:0.08750 F:0.08750
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14044 P:0.14216 F:0.14129
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11735 P:0.11616 F:0.11675
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15385 P:0.15196 F:0.15290
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09677 P:0.09559 F:0.09618
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09487 P:0.08894 F:0.09181
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09524 P:0.09314 F:0.09418
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14568 P:0.14604 F:0.14586
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13861 P:0.13333 F:0.13592
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13421 P:0.12379 F:0.12879
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07969 P:0.07828 F:0.07898
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12371 P:0.12121 F:0.12245
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14646 P:0.14216 F:0.14428
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06045 P:0.06061 F:0.06053
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06404 P:0.06311 F:0.06357
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09114 P:0.09000 F:0.09057
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14729 P:0.14109 F:0.14412
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10995 P:0.10500 F:0.10742
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17337 P:0.16912 F:0.17122
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12687 P:0.12143 F:0.12409
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19797 P:0.19307 F:0.19549
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14392 P:0.14646 F:0.14518
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.18734 P:0.18500 F:0.18616
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11392 P:0.11250 F:0.11321
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19165 P:0.16957 F:0.17994
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15517 P:0.15144 F:0.15328
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11307 P:0.11029 F:0.11166
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-2 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17207 P:0.17424 F:0.17315
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Average_R: 0.05535 (95%-conf.int. 0.04696 - 0.06422)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Average_P: 0.05405 (95%-conf.int. 0.04587 - 0.06295)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Average_F: 0.05468 (95%-conf.int. 0.04638 - 0.06343)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06566 P:0.06436 F:0.06500
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02828 P:0.02723 F:0.02775
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02314 P:0.02083 F:0.02192
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08500 P:0.08416 F:0.08458
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01312 P:0.01225 F:0.01267
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01795 P:0.01733 F:0.01763
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06801 P:0.06888 F:0.06844
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04030 P:0.03960 F:0.03995
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03069 P:0.03000 F:0.03034
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08247 P:0.08081 F:0.08163
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06667 P:0.06500 F:0.06582
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04835 P:0.04750 F:0.04792
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11370 P:0.11224 F:0.11297
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01279 P:0.01238 F:0.01258
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01741 P:0.01716 F:0.01728
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02267 P:0.02296 F:0.02281
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04293 P:0.04293 F:0.04293
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06601 P:0.06683 F:0.06642
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02320 P:0.02296 F:0.02308
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09023 P:0.08911 F:0.08967
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03008 P:0.02970 F:0.02989
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04663 P:0.04369 F:0.04511
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04051 P:0.03960 F:0.04005
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07980 P:0.08000 F:0.07990
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07250 P:0.06971 F:0.07108
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05585 P:0.05147 F:0.05357
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03377 P:0.03316 F:0.03346
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05729 P:0.05612 F:0.05670
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07653 P:0.07426 F:0.07538
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00254 P:0.00255 F:0.00254
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01493 P:0.01471 F:0.01482
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03581 P:0.03535 F:0.03558
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08877 P:0.08500 F:0.08684
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04233 P:0.04040 F:0.04134
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07614 P:0.07426 F:0.07519
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05528 P:0.05288 F:0.05405
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07949 P:0.07750 F:0.07848
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06516 P:0.06633 F:0.06574
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12532 P:0.12374 F:0.12452
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04604 P:0.04545 F:0.04574
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09926 P:0.08772 F:0.09313
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08458 P:0.08252 F:0.08354
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06345 P:0.06188 F:0.06266
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-3 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10076 P:0.10204 F:0.10140
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Average_R: 0.03063 (95%-conf.int. 0.02431 - 0.03734)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Average_P: 0.02992 (95%-conf.int. 0.02369 - 0.03662)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Average_F: 0.03026 (95%-conf.int. 0.02396 - 0.03695)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03061 P:0.03000 F:0.03030
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01299 P:0.01250 F:0.01274
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00779 P:0.00701 F:0.00738
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05051 P:0.05000 F:0.05025
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00531 P:0.00495 F:0.00512
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00518 P:0.00500 F:0.00509
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03817 P:0.03866 F:0.03841
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02290 P:0.02250 F:0.02270
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00517 P:0.00505 F:0.00511
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04948 P:0.04847 F:0.04897
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02332 P:0.02273 F:0.02302
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02057 P:0.02020 F:0.02038
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06527 P:0.06443 F:0.06485
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00517 P:0.00500 F:0.00508
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00763 P:0.00773 F:0.00768
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02296 P:0.02296 F:0.02296
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03457 P:0.03500 F:0.03478
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06076 P:0.06000 F:0.06038
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00253 P:0.00250 F:0.00251
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02094 P:0.01961 F:0.02025
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01535 P:0.01500 F:0.01517
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05290 P:0.05303 F:0.05296
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05808 P:0.05583 F:0.05693
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.03226 P:0.02970 F:0.03093
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02100 P:0.02062 F:0.02081
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04474 P:0.04381 F:0.04427
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05412 P:0.05250 F:0.05330
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00000 P:0.00000 F:0.00000
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.00251 P:0.00248 F:0.00249
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02326 P:0.02296 F:0.02311
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06069 P:0.05808 F:0.05936
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.01872 P:0.01786 F:0.01828
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04615 P:0.04500 F:0.04557
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02284 P:0.02184 F:0.02233
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04922 P:0.04798 F:0.04859
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04557 P:0.04639 F:0.04598
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09561 P:0.09439 F:0.09500
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.02067 P:0.02041 F:0.02054
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05514 P:0.04867 F:0.05170
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04020 P:0.03922 F:0.03970
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.04103 P:0.04000 F:0.04051
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-4 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05089 P:0.05155 F:0.05122
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Average_R: 0.25980 (95%-conf.int. 0.24892 - 0.27145)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Average_P: 0.25361 (95%-conf.int. 0.24271 - 0.26477)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Average_F: 0.25661 (95%-conf.int. 0.24555 - 0.26808)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.29950 P:0.29369 F:0.29657
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.21662 P:0.20874 F:0.21261
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24181 P:0.21818 F:0.22939
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.30637 P:0.30340 F:0.30488
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19280 P:0.18029 F:0.18634
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.21106 P:0.20388 F:0.20741
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.26420 P:0.26750 F:0.26584
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.20988 P:0.20631 F:0.20808
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24812 P:0.24265 F:0.24535
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.26515 P:0.25990 F:0.26250
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.32161 P:0.31373 F:0.31762
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.23940 P:0.23529 F:0.23733
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.32405 P:0.32000 F:0.32201
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.22556 P:0.21845 F:0.22195
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.22927 P:0.22596 F:0.22760
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.23210 P:0.23500 F:0.23354
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19059 P:0.19059 F:0.19059
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28777 P:0.29126 F:0.28950
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.26768 P:0.26500 F:0.26633
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28993 P:0.28641 F:0.28816
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.27273 P:0.26942 F:0.27106
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24112 P:0.22619 F:0.23342
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.25806 P:0.25243 F:0.25521
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.26650 P:0.26716 F:0.26683
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.29412 P:0.28302 F:0.28846
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24740 P:0.22837 F:0.23750
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.23410 P:0.23000 F:0.23203
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.25000 P:0.24500 F:0.24747
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28000 P:0.27184 F:0.27586
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19950 P:0.20000 F:0.19975
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19024 P:0.18750 F:0.18886
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24060 P:0.23762 F:0.23910
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.29923 P:0.28676 F:0.29286
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24093 P:0.23020 F:0.23544
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.33085 P:0.32282 F:0.32679
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.24384 P:0.23349 F:0.23855
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.33668 P:0.32843 F:0.33250
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.21622 P:0.22000 F:0.21809
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.31830 P:0.31436 F:0.31632
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.23810 P:0.23515 F:0.23662
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.32847 P:0.29095 F:0.30857
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.27317 P:0.26667 F:0.26988
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28109 P:0.27427 F:0.27764
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-L Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.28889 P:0.29250 F:0.29068
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Average_R: 0.07202 (95%-conf.int. 0.06882 - 0.07542)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Average_P: 0.17674 (95%-conf.int. 0.16870 - 0.18506)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Average_F: 0.10232 (95%-conf.int. 0.09777 - 0.10718)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08080 P:0.19944 F:0.11501
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06232 P:0.15062 F:0.08816
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06340 P:0.14356 F:0.08796
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08818 P:0.22028 F:0.12594
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05356 P:0.12516 F:0.07502
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05770 P:0.13989 F:0.08170
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07244 P:0.18471 F:0.10407
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05943 P:0.14713 F:0.08466
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06574 P:0.16144 F:0.09343
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07580 P:0.18627 F:0.10775
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08649 P:0.21177 F:0.12282
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06663 P:0.16462 F:0.09486
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09196 P:0.22755 F:0.13098
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06325 P:0.15380 F:0.08964
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05739 P:0.14284 F:0.08188
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06276 P:0.16003 F:0.09016
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05257 P:0.13231 F:0.07524
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07590 P:0.19461 F:0.10921
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07243 P:0.17977 F:0.10326
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08132 P:0.20249 F:0.11604
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07065 P:0.17597 F:0.10082
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06473 P:0.15208 F:0.09081
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06786 P:0.16698 F:0.09650
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07567 P:0.19140 F:0.10846
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08491 P:0.20608 F:0.12027
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06814 P:0.15701 F:0.09504
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06614 P:0.16273 F:0.09405
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07712 P:0.18915 F:0.10957
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07740 P:0.18875 F:0.10978
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05313 P:0.13387 F:0.07607
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.05236 P:0.13027 F:0.07470
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06628 P:0.16436 F:0.09447
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08351 P:0.20030 F:0.11788
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06832 P:0.16291 F:0.09627
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08829 P:0.21665 F:0.12545
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06918 P:0.16692 F:0.09782
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09409 P:0.23033 F:0.13360
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06211 P:0.15931 F:0.08938
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09517 P:0.23598 F:0.13564
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.06935 P:0.17195 F:0.09884
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09040 P:0.20230 F:0.12496
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07469 P:0.18407 F:0.10626
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.07875 P:0.19320 F:0.11189
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-W-1.2 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08068 P:0.20570 F:0.11590
+---------------------------------------------
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Average_R: 0.15191 (95%-conf.int. 0.14103 - 0.16323)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Average_P: 0.14823 (95%-conf.int. 0.13743 - 0.15906)
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Average_F: 0.15002 (95%-conf.int. 0.13920 - 0.16112)
+.............................................
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0901-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.18305 P:0.17940 F:0.18121
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0902-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10871 P:0.10465 F:0.10664
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0903-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11475 P:0.10326 F:0.10870
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0904-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17911 P:0.17733 F:0.17822
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0905-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.08590 P:0.08018 F:0.08294
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0906-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.09940 P:0.09593 F:0.09763
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0907-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14497 P:0.14683 F:0.14589
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0908-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12468 P:0.12251 F:0.12359
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0909-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12790 P:0.12500 F:0.12643
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0910-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19204 P:0.18814 F:0.19007
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0911-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.20482 P:0.19966 F:0.20221
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0912-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13706 P:0.13465 F:0.13584
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0913-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.22984 P:0.22688 F:0.22835
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0914-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12361 P:0.11960 F:0.12157
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0915-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11603 P:0.11431 F:0.11516
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0916-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10482 P:0.10616 F:0.10549
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0917-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12331 P:0.12331 F:0.12331
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0918-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.18130 P:0.18355 F:0.18242
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0919-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13279 P:0.13142 F:0.13210
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0920-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.16484 P:0.16279 F:0.16381
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0921-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14003 P:0.13829 F:0.13915
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0922-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12478 P:0.11686 F:0.12069
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0923-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.12574 P:0.12292 F:0.12431
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0924-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17657 P:0.17701 F:0.17679
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0925-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17450 P:0.16774 F:0.17105
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0926-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.14196 P:0.13076 F:0.13613
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0927-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11421 P:0.11216 F:0.11318
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0928-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.16302 P:0.15967 F:0.16133
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0929-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.18193 P:0.17650 F:0.17917
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0930-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10248 P:0.10274 F:0.10261
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0931-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.10142 P:0.09992 F:0.10066
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0932-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13348 P:0.13178 F:0.13262
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0933-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.19062 P:0.18247 F:0.18646
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0934-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.11679 P:0.11144 F:0.11405
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0935-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.20102 P:0.19601 F:0.19848
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0936-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15304 P:0.14637 F:0.14963
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0937-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.21213 P:0.20680 F:0.20943
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0938-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15896 P:0.16182 F:0.16038
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0939-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.22532 P:0.22246 F:0.22388
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0940-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.13777 P:0.13602 F:0.13689
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0941-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.22731 P:0.20074 F:0.21320
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0942-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.17905 P:0.17467 F:0.17683
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0943-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.15673 P:0.15282 F:0.15475
+mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x ROUGE-SU4 Eval D0944-A.mmdpq_tac08-A_x.x_g2.25_b0.08_a0_SFbxx_r0.01_ep53_x R:0.16948 P:0.17166 F:0.17056
